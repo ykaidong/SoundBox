@@ -1,0 +1,12 @@
+﻿{
+    N1 = {
+        name ="机枪声";
+        path = "/sound/机枪声.mp3";
+        hotkey = "0x61"
+    };
+    N2 = {
+        name = "亲一下";
+        path = "/sound/亲一下.mp3";
+        hotkey = "0x62"
+    }
+}

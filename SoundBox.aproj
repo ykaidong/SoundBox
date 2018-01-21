@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="SoundBox" libEmbed="true" icon="ico.ico" ui="win" output="SoundBox.exe" CompanyName="JIUSEMedia" FileDescription="SoundBox" LegalCopyright="Copyright (C) 九色传媒 2018" ProductName="SoundBox" InternalName="SoundBox" FileVersion="0.0.0.09" ProductVersion="0.0.0.09" publishDir="/Publish/" dstrip="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true"/>
+</project>

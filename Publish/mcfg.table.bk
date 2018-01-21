@@ -1,0 +1,152 @@
+﻿{
+    S1 = {
+        name ="0 祝大哥";
+        path = "/sound/祝大哥.mp3";
+        hotkey = "0x60"
+    };
+    S2 = {
+        name = "1 大哄笑";
+        path = "/sound/大哄笑.mp3";
+        hotkey = "0x61"
+    };
+    S3 = {
+        name = "2 机枪声";
+        path = "/sound/机枪声.mp3";
+        hotkey = "0x62"
+    };
+    S4 = {
+        name = "3 给大哥点点关注";
+        path = "/sound/给大哥点点关注.mp3";
+        hotkey = "0x63"
+    };
+    S5 = {
+        name = "4 乌鸦飞过";
+        path = "/sound/乌鸦飞过.mp3";
+        hotkey = "0x64"
+    };
+    S6 = {
+        name = "5 礼曲";
+        path = "/sound/礼曲.mp3";
+        hotkey = "0x65"
+    };
+    S7 = {
+        name = "6 起哄";
+        path = "/sound/起哄.mp3";
+        hotkey = "0x66"
+    };
+    S8 = {
+        name = "7 亲一下";
+        path = "/sound/亲一下.mp3";
+        hotkey = "0x67"
+    };
+    S9 = {
+        name = "8 扇一巴掌";
+        path = "/sound/扇一巴掌.mp3";
+        hotkey = "0x68"
+    };
+    S10 = {
+        name = "9 小哄笑";
+        path = "/sound/小哄笑.mp3";
+        hotkey = "0x69"
+    };
+    S11 = {
+        name = "+ 心动时刻心跳声";
+        path = "/sound/心动时刻心跳声.mp3";
+        hotkey = "0x6B"
+    };
+    S12 = {
+        name = "Enter 去网吧偷耳机";
+        path = "/sound/去网吧偷耳机.mp3";
+        hotkey = "0x0D"
+    };
+    N1 = {
+        name = "N1 我们不一样";
+        path = "/sound/我们不一样.mp3";
+        hotkey = "0x31"
+    };
+    N2 = {
+        name = "N2 要不要做我女朋友";
+        path = "/sound/要不要做我女朋友.mp3";
+        hotkey = "0x32"
+    };
+    N3 = {
+        name = "N3 摇滚";
+        path = "/sound/摇滚.mp3";
+        hotkey = "0x33"
+    };
+    N4 = {
+        name = "N4 感谢点亮";
+        path = "/sound/感谢点亮.mp3";
+        hotkey = "0x34"
+    };
+    N5 = {
+        name = "N5 孤独和烈酒";
+        path = "/sound/孤独和烈酒.mp3";
+        hotkey = "0x35"
+    };
+    N6 = {
+        name = "N6 说散就散";
+        path = "/sound/说散就散.mp3";
+        hotkey = "0x36"
+    };
+    N7 = {
+        name = "N7 欢迎新人";
+        path = "/sound/欢迎新人.mp3";
+        hotkey = "0x37"
+    };
+    N8 = {
+        name = "N8 秒榜";
+        path = "/sound/秒榜.mp3";
+        hotkey = "0x38"
+    };
+    N9 = {
+        name = "N9 盖伦摇";
+        path = "/sound/盖伦摇.mp3";
+        hotkey = "0x39"
+    };
+    F4 = {
+        name = "F4 PSY";
+        path = "/sound/PSY.mp3";
+        hotkey = "0x73"
+    };
+    F5 = {
+        name = "F5 爱的就是你";
+        path = "/sound/爱的就是你.mp3";
+        hotkey = "0x74"
+    };
+    F6 = {
+        name = "F6 抖腿摇";
+        path = "/sound/抖腿摇.mp3";
+        hotkey = "0x75"
+    };
+    F7 = {
+        name = "F7 爱上";
+        path = "/sound/爱上.mp3";
+        hotkey = "0x76"
+    };
+    F8 = {
+        name = "F8 八卦";
+        path = "/sound/八卦.mp3";
+        hotkey = "0x77"
+    };
+    F9 = {
+        name = "F9 当年大哥范儿";
+        path = "/sound/当年大哥范儿.mp3";
+        hotkey = "0x78"
+    };
+    F10 = {
+        name = "F10 世界杯";
+        path = "/sound/世界杯.mp3";
+        hotkey = "0x79"
+    };
+    F11 = {
+        name = "F11 空空如也";
+        path = "/sound/空空如也.mp3";
+        hotkey = "0x7A"
+    };
+    F12 = {
+        name = "F12 全部都是你";
+        path = "/sound/全部都是你.mp3";
+        hotkey = "0x7B"
+    }
+}
